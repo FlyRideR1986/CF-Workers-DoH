@@ -98,6 +98,79 @@ CF源测试解析www.youtube.com
 ```
 
 谷歌源测试解析www.youtube.com
+```json
+{
+"Status": 0,
+"TC": false,
+"RD": true,
+"RA": true,
+"AD": false,
+"CD": false,
+"Question": [
+{
+"name": "www.youtube.com.",
+"type": 1
+}
+],
+"Answer": [
+{
+"name": "www.youtube.com.",
+"type": 5,
+"TTL": 300,
+"data": "youtube-ui.l.google.com."
+},
+{
+"name": "youtube-ui.l.google.com.",
+"type": 1,
+"TTL": 300,
+"data": "142.251.39.110"
+},
+{
+"name": "youtube-ui.l.google.com.",
+"type": 1,
+"TTL": 300,
+"data": "172.217.168.238"
+},
+{
+"name": "youtube-ui.l.google.com.",
+"type": 1,
+"TTL": 300,
+"data": "142.251.36.14"
+},
+{
+"name": "youtube-ui.l.google.com.",
+"type": 1,
+"TTL": 300,
+"data": "142.251.36.46"
+},
+{
+"name": "youtube-ui.l.google.com.",
+"type": 1,
+"TTL": 300,
+"data": "142.250.179.206"
+},
+{
+"name": "youtube-ui.l.google.com.",
+"type": 1,
+"TTL": 300,
+"data": "142.250.179.142"
+},
+{
+"name": "youtube-ui.l.google.com.",
+"type": 1,
+"TTL": 300,
+"data": "142.250.179.174"
+},
+{
+"name": "youtube-ui.l.google.com.",
+"type": 1,
+"TTL": 300,
+"data": "172.217.23.206"
+}
+]
+}
+```
+
 
 
 
