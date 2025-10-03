@@ -11,3 +11,11 @@ let CFDoH路径 = 'cloudflare-doh'; // 使用CF的DNS源，路径名称随意，
 let GGDoH路径 = 'google-doh'; // 使用谷歌的DNS源，路径名称随意，但不要与其他路径冲突
 ```
 
+CF源测试解析www.youtube.com
+
+
+
+谷歌源测试解析www.youtube.com
+
+
+
